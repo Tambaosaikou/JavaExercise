@@ -8,9 +8,7 @@ public class Test5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String str1 = "1798798099079798098";
-		
-		str1 = String.format("%,d",1798798099079798098L);
+		String str1 = String.format("%,d",1798798099079798098L);
 		System.out.println(str1);
 
 	}
