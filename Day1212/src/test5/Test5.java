@@ -10,6 +10,5 @@ public class Test5 {
 		// TODO Auto-generated method stub
 		String str1 = String.format("%,d",1798798099079798098L);
 		System.out.println(str1);
-
 	}
 }
